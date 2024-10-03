@@ -1,4 +1,4 @@
-# 100 Days of Code: Professional Portfolio Project
+# 100 Days of Code: Professional Portfolio Projects
 
 This portfolio consists of 20 projects across various areas of software development, showcasing my learning journey and personal development. Each project covers a different aspect of programming, from web development to automation and data science. Below is the list of the areas these projects focus on:
 
